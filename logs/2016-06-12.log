@@ -1,0 +1,13 @@
+2016-06-12 16:49:56,126 httprequest.py[line:39] INFO 发送post请求: http://120.197.58.120:9090/Sourcepool/httpservice/index.html?method=getPubcat  服务器返回:  200
+2016-06-12 16:51:22,918 httprequest.py[line:39] INFO 发送post请求: http://120.197.58.120:9090/Sourcepool/httpservice/index.html?method=getPubcat  服务器返回:  200
+2016-06-12 16:56:40,741 httprequest.py[line:39] INFO 发送post请求: http://120.197.58.120:9090/Sourcepool/httpservice/index.html?method=getPubcat  服务器返回:  200
+2016-06-12 17:22:04,392 httprequest.py[line:39] INFO 发送post请求: http://120.197.58.120:9090/Sourcepool/httpservice/index.html?method=getPubcat  服务器返回:  200
+2016-06-12 17:23:36,037 httprequest.py[line:39] INFO 发送post请求: http://120.197.58.120:9090/Sourcepool/httpservice/index.html?method=getPubcat  服务器返回:  200
+2016-06-12 17:24:38,993 httprequest.py[line:39] INFO 发送post请求: http://120.197.58.120:9090/Sourcepool/httpservice/index.html?method=getPubcat  服务器返回:  200
+2016-06-12 17:26:22,400 httprequest.py[line:39] INFO 发送post请求: http://120.197.58.120:9090/Sourcepool/httpservice/index.html?method=getPubcat  服务器返回:  200
+2016-06-12 17:31:13,338 httprequest.py[line:39] INFO 发送post请求: http://120.197.58.120:9090/Sourcepool/httpservice/index.html?method=getPubcat  服务器返回:  200
+2016-06-12 17:44:14,491 httprequest.py[line:39] INFO 发送post请求: http://120.197.58.120:9090/Sourcepool/httpservice/index.html?method=getPubcat  服务器返回:  200
+2016-06-12 17:59:09,591 httprequest.py[line:39] INFO 发送post请求: http://120.197.58.120:9090/Sourcepool/httpservice/index.html?method=getPubcat  服务器返回:  200
+2016-06-12 18:11:18,980 httprequest.py[line:39] INFO 发送post请求: http://120.197.58.120:9090/Sourcepool/httpservice/index.html?method=getPubcat  服务器返回:  200
+2016-06-12 18:49:32,292 httprequest.py[line:39] INFO 发送post请求: http://120.197.58.120:9090/Sourcepool/httpservice/index.html?method=getPubcat  服务器返回:  200
+2016-06-12 18:51:06,595 httprequest.py[line:39] INFO 发送post请求: http://120.197.58.120:9090/Sourcepool/httpservice/index.html?method=getPubcat  服务器返回:  200
