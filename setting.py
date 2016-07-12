@@ -11,7 +11,12 @@ __author__ = 'Aaron_chan'
 import os
 import sys
 
-root_dir = '/'.join(os.path.realpath(__file__).split('/')[:-1])
+#获取当前文件路径
+root_dir = '\\'.join(os.path.realpath(__file__).split('\\')[:-1])
+
+#url地址
+url = 'http://120.197.58.120:9090/Sourcepool'
+#print(url + '/httpservice/index.html?method=setYuyue')
 
 sys.path.append(root_dir)
 # log等级,1:notset 2:debug  3:info 4:warning 5:error 6:critical
@@ -20,12 +25,13 @@ logLevel = 2
 logFile = os.path.join(root_dir, 'logs')
 # xml测试结果路径
 xmlPath = os.path.join(root_dir,'xmlResult')
+print(xmlPath)
 
 # 数据库配置，支持MYSQL、MSSQL、ORACLE
 DATABASE = {
-    "ENGINE": "MSSQL",
+    "ENGINE": "MYSQL",
     "HOST": "",
-    "PORT": 3433,
+    "PORT": 3306,
     "USER": "",
     "PWD": "",
     "DATABASE": ""

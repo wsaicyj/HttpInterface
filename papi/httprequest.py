@@ -32,7 +32,7 @@ class SendHttpRequest(object):
         try:
             #req = requests.post(self.url, data=json.dumps(value), headers=head)
             req = requests.post(self.url, data=value)
-            print(req.url)
+            #print(req.url)
         except Exception as err:
             print(err)
         if req.status_code == 200:
